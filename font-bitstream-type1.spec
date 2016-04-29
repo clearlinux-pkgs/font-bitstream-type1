@@ -4,7 +4,7 @@
 #
 Name     : font-bitstream-type1
 Version  : 1.0.3
-Release  : 4
+Release  : 5
 URL      : http://xorg.freedesktop.org/releases/individual/font/font-bitstream-type1-1.0.3.tar.gz
 Source0  : http://xorg.freedesktop.org/releases/individual/font/font-bitstream-type1-1.0.3.tar.gz
 Summary  : No detailed summary available
